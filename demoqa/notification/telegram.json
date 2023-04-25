@@ -1,0 +1,17 @@
+{
+  "base": {
+    "project": "qa_guru_python_4_12",
+    "environment": "QAGURU",
+    "comment": "@stanavd",
+    "reportLink": "",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "tests/allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5929290782:AAFdSUL4zepj1V1bBZJ7Glw6CWcNL30uaW0",
+    "chat": "-1001903510887",
+    "replyTo": ""
+  }
+}
